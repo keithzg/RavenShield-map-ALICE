@@ -16,7 +16,7 @@ SetCompressor /SOLID lzma
 # If we don't find a registry key, assume the default Steam install location for 64-bit Windows
 InstallDir "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\"
 ;InstallDirRegKey HKLM "SOFTWARE\G. Michaels Consulting Ltd." "InstallDir"
-outFile "RavenShield_map_Alice.exe"
+outFile "RavenShield-map-Alice.exe"
 !include LogicLib.nsh
  
 # This will be in the installer/uninstaller's title bar
