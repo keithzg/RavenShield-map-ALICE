@@ -1,0 +1,39 @@
+Version=5
+
+Type=Terrorist
+
+NbOfPawn=1
+100, R6Characters.R6TDrug1
+
+NbOfWeapon=2
+050, R63rdWeapons.NormalLMG21E
+050, R63rdWeapons.NormalSubP90
+
+NbOfGrenade=5
+001, R6Weapons.R6FalseHBGadget
+001, R6Weapons.R6FragGrenadeGadget
+003, R6Weapons.R6FlashBangGadget
+010, R6Weapons.R6TearGasGrenadeGadget
+085, None.None
+
+Coward=0
+DeskJockey=0
+Normal=0
+Hardened=45
+SuicideBomber=10
+PSniper=45
+
+RndVariation=60
+Assault=70
+Demolitions=100
+Electronics=100
+SSniper=40
+Stealth=70
+SelfControl=100
+Leadership=80
+Observation=70
+
+Flashlight=1
+Glasses=2
+Sunglasses=20
+Helmet=0

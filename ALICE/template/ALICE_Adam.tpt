@@ -1,0 +1,39 @@
+Version=5
+
+Type=Terrorist
+
+NbOfPawn=1
+100, R6Characters.R6TBusiness04
+
+NbOfWeapon=4
+010, R63rdWeapons.CMagAssaultL85A1
+010, R63rdWeapons.CMagAssaultTAR21
+040, R63rdWeapons.CMagAssaultFAMASG2
+040, R63rdWeapons.CMagSubUMP
+
+NbOfGrenade=3
+001, R6Weapons.R6FalseHBGadget
+025, R6Weapons.R6FragGrenadeGadget
+074, None.None
+
+Coward=10
+DeskJockey=10
+Normal=79
+Hardened=0
+SuicideBomber=1
+PSniper=0
+
+RndVariation=5
+Assault=33
+Demolitions=0
+Electronics=0
+SSniper=0
+Stealth=0
+SelfControl=20
+Leadership=0
+Observation=60
+
+Flashlight=45
+Glasses=45
+Sunglasses=45
+Helmet=10

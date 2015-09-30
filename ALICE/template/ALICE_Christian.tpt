@@ -1,0 +1,56 @@
+Version=5
+
+Type=Terrorist
+
+NbOfPawn=1
+100, R6Characters.R6TTropical1
+
+NbOfWeapon=20
+005, R63rdWeapons.BuckShotgunUSAS12
+005, R63rdWeapons.NormalAssaultFAL
+005, R63rdWeapons.NormalAssaultFAMASG2
+005, R63rdWeapons.NormalAssaultM82
+005, R63rdWeapons.NormalAssaultType97
+005, R63rdWeapons.NormalLMGRPD
+005, R63rdWeapons.NormalPistolAPArmy
+005, R63rdWeapons.NormalPistolDesertEagle357
+005, R63rdWeapons.NormalPistolP228
+005, R63rdWeapons.NormalPistolUSP
+005, R63rdWeapons.NormalSniperSSG3000
+005, R63rdWeapons.NormalSniperWA2000
+005, R63rdWeapons.NormalSubCZ61
+005, R63rdWeapons.NormalSubM12S
+005, R63rdWeapons.NormalSubMac119
+005, R63rdWeapons.NormalSubMicroUzi
+005, R63rdWeapons.NormalSubMP510A2
+005, R63rdWeapons.NormalSubMP5KPDW
+005, R63rdWeapons.SilencedPistolAPArmy
+005, R63rdWeapons.SlugShotgunSPAS12
+
+NbOfGrenade=4
+005, R6Weapons.R6FalseHBGadget
+005, R6Weapons.R6FlashBangGadget
+010, R6Weapons.R6TearGasGrenadeGadget
+080, None.None
+
+Coward=0
+DeskJockey=0
+Normal=20
+Hardened=50
+SuicideBomber=25
+PSniper=5
+
+RndVariation=8
+Assault=75
+Demolitions=89
+Electronics=70
+SSniper=90
+Stealth=80
+SelfControl=100
+Leadership=90
+Observation=50
+
+Flashlight=90
+Glasses=98
+Sunglasses=2
+Helmet=0

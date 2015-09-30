@@ -1,0 +1,38 @@
+Version=5
+
+Type=Terrorist
+
+NbOfPawn=1
+100, R6Characters.R6TParamilitary02
+
+NbOfWeapon=2
+050, R63rdWeapons.CMagAssaultAK47
+050, R63rdWeapons.SilencedSniperAWCovert
+
+NbOfGrenade=4
+001, R6Weapons.R6FlashBangGadget
+005, R6Weapons.R6FragGrenadeGadget
+005, R6Weapons.R6TearGasGrenadeGadget
+089, None.None
+
+Coward=0
+DeskJockey=0
+Normal=40
+Hardened=5
+SuicideBomber=1
+PSniper=54
+
+RndVariation=5
+Assault=60
+Demolitions=0
+Electronics=30
+SSniper=100
+Stealth=30
+SelfControl=100
+Leadership=10
+Observation=10
+
+Flashlight=100
+Glasses=99
+Sunglasses=1
+Helmet=0

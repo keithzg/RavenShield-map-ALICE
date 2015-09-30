@@ -1,5 +1,8 @@
 # RavenShield-map-ALICE
-Repo for a "classic" map for Raven Shield (nowadays available on Steam as "Rainbow Six 3 Gold").
+Repo for a "classic" map for Raven Shield (nowadays available on Steam as "Rainbow Six 3 Gold"), the Arbitrarily Limited Integrated Combat Environment.
+
+# Usage
+To create the installer, just use NSIS on ALICE.nsi. Otherwise, if you grab this repo, you can just copy the contents of the ALICE folder.
 
 # License
 Code added here is licensed under copyleft-next 0.3.0. If you're confused because you haven't heard of it, don't worry, you can treat that as GPLv3. 

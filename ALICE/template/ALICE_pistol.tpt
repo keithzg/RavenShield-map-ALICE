@@ -1,0 +1,49 @@
+Version=5
+
+Type=Terrorist
+
+NbOfPawn=8
+010, R6Characters.R6TMilitant01
+010, R6Characters.R6TMilitant02
+010, R6Characters.R6TMilitant03
+010, R6Characters.R6TMilitant04
+010, R6Characters.R6TSkinhead1
+010, R6Characters.R6TTropical3
+010, R6Characters.R6TTropical4
+030, R6Characters.R6TSkinhead2
+
+NbOfWeapon=8
+005, R63rdWeapons.NormalPistolSR2
+010, R63rdWeapons.CMagPistolMac119
+010, R63rdWeapons.NormalPistolCZ61
+015, R63rdWeapons.NormalPistol92FS
+015, R63rdWeapons.NormalPistolAPArmy
+015, R63rdWeapons.NormalPistolP228
+015, R63rdWeapons.NormalPistolSPP
+015, R63rdWeapons.NormalPistolUSP
+
+NbOfGrenade=2
+010, R6Weapons.R6FragGrenadeGadget
+090, None.None
+
+Coward=25
+DeskJockey=10
+Normal=60
+Hardened=4
+SuicideBomber=1
+PSniper=0
+
+RndVariation=10
+Assault=70
+Demolitions=0
+Electronics=0
+SSniper=0
+Stealth=60
+SelfControl=40
+Leadership=30
+Observation=70
+
+Flashlight=5
+Glasses=50
+Sunglasses=10
+Helmet=0
